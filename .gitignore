@@ -1,0 +1,10 @@
+/reports
+/application_generated_data_files
+*.csv
+*.bin
+*.npy
+/.idea
+*_local
+*_samples
+*.wav
+*.pyc
